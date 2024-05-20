@@ -1,0 +1,22 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 21px;
+
+}
+
+.copyright {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.field-label {
+    font-size: 17px;
+    
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
+select {
+    background-color:#FFFFFF !important;
+}
